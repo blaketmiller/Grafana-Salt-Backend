@@ -1,0 +1,7 @@
+{
+    "username": "yourusername",
+    "password": "yourpassword",
+    "saltmaster": "saltmaster.address.net",
+    "protocol": "http",
+    "port": 8000
+}
